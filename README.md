@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 📫 How to reach me: <rikushoney2.com>
+- 📫 How to reach me: <rikushoney2@gmail.com>
 - ⚡ Fun fact: I use vim and Arch (btw)
